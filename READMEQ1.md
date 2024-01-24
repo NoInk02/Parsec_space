@@ -84,7 +84,7 @@ Leave the model for training and let it complete the training.
 Results
 Analyse the loss function(here mse:mean squared error) and the how it decreases with the epochs and save the predictions made.
 Plot graphs of actual values and predictions and check how the model is performing.You can use scatterplots,confusion matrices and error analysis through statistical functions for checking results.
-As mentioned in the problem statement calculate the RMSE value (for example its close to 1.0006289211972983 ).
+As mentioned in the problem statement calculate the RMSE value (for example its close to 14.17 ).
 
 Conclusion
 Here we can conclude the project by saving the model and its training weights for future use.
